@@ -1,4 +1,4 @@
-# 🚖 OLA Ride Booking Analysis | SQL + Power BI
+# 🚖 Urban Mobility Insights | SQL + Power BI
 
 ## 📌 Project Overview
 
